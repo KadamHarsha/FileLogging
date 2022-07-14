@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-14T19:13:13.802879400Z</date>
+  <millis>1657825993802</millis>
+  <nanos>879400</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2022-07-14T19:13:13.850613400Z</date>
+  <millis>1657825993850</millis>
+  <nanos>613400</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2022-07-14T19:13:13.850613400Z</date>
+  <millis>1657825993850</millis>
+  <nanos>613400</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-14T19:15:49.963047500Z</date>
+  <millis>1657826149963</millis>
+  <nanos>47500</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>SEVERE</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2022-07-14T19:15:50.013884300Z</date>
+  <millis>1657826150013</millis>
+  <nanos>884300</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>WARNING</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2022-07-14T19:15:50.013884300Z</date>
+  <millis>1657826150013</millis>
+  <nanos>884300</nanos>
+  <sequence>2</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-14T19:25:03.766848500Z</date>
+  <millis>1657826703766</millis>
+  <nanos>848500</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>SEVERE</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2022-07-14T19:25:03.826190500Z</date>
+  <millis>1657826703826</millis>
+  <nanos>190500</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>WARNING</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2022-07-14T19:25:03.827190500Z</date>
+  <millis>1657826703827</millis>
+  <nanos>190500</nanos>
+  <sequence>2</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
